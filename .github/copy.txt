@@ -1,0 +1,10 @@
+Welcome to the Python file handling lab.
+Today we learn how to open files.
+Next, we learn how to read data from files.
+We also practice writing data to files.
+Files can be opened in different modes.
+Always close a file after using it.
+Using with open is safer than open().
+We can read lines individually or all at once.
+We can write single strings or multiple lines.
+Good file handling is important in programming.
