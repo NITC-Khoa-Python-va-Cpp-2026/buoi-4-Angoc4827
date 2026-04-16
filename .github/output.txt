@@ -1,0 +1,6 @@
+We can write single strings or multiple lines.
+We also practice writing data to files.
+We can read lines individually or all at once.
+Today we learn how to open files.
+Files can be opened in different modes.
+Họ và tên
